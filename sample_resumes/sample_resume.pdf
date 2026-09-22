@@ -1,0 +1,96 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1812 >>
+stream
+BT
+/F1 18 Tf
+50 780 Td
+(Alex Morgan - Full Stack Engineer) Tj
+/F1 10 Tf
+0 -18 Td
+(alex.morgan@email.com | +1 (555) 234-5678 | San Francisco, CA | github.com/alexmorgan) Tj
+0 -25 Td
+/F1 13 Tf
+(PROFESSIONAL SUMMARY) Tj
+/F1 10 Tf
+0 -15 Td
+(Passionate Full Stack Engineer with experience building scalable web apps with React, Python, and Flask.) Tj
+0 -13 Td
+(Specializes in REST API architecture, cloud deployments, and responsive UI design.) Tj
+0 -25 Td
+/F1 13 Tf
+(TECHNICAL SKILLS) Tj
+/F1 10 Tf
+0 -15 Td
+(Languages: Python, JavaScript, TypeScript, SQL, HTML5, CSS3) Tj
+0 -13 Td
+(Frameworks: React, Flask, Node.js, Express, Tailwind CSS) Tj
+0 -13 Td
+(Databases & Tools: PostgreSQL, MongoDB, Docker, Git, REST APIs, AWS) Tj
+0 -25 Td
+/F1 13 Tf
+(WORK EXPERIENCE) Tj
+/F1 11 Tf
+0 -15 Td
+(Software Engineer Intern - NovaCloud Solutions (Jun 2023 - Present)) Tj
+/F1 10 Tf
+0 -13 Td
+(- Built RESTful microservices in Python Flask, reducing endpoint response times by 28%.) Tj
+0 -13 Td
+(- Created interactive React dashboards with Tailwind CSS used by 1,000+ daily active users.) Tj
+0 -13 Td
+(- Built automated CI/CD deployment pipelines using Docker and GitHub Actions.) Tj
+0 -25 Td
+/F1 13 Tf
+(PROJECTS) Tj
+/F1 11 Tf
+0 -15 Td
+(AI Resume Analyzer (React, Flask, Google Gemini API)) Tj
+/F1 10 Tf
+0 -13 Td
+(- Built full-stack app parsing PDF and DOCX documents and analyzing them using Google Gemini AI.) Tj
+0 -13 Td
+(- Formatted recruiter metrics, keyword scoring, and gap analysis with structured JSON schemas.) Tj
+0 -25 Td
+/F1 13 Tf
+(EDUCATION) Tj
+/F1 10 Tf
+0 -15 Td
+(B.S. in Computer Science - State University of Technology (2020 - 2024, GPA: 3.8/4.0)) Tj
+0 -25 Td
+/F1 13 Tf
+(CERTIFICATIONS) Tj
+/F1 10 Tf
+0 -15 Td
+(- AWS Certified Cloud Practitioner (2024)) Tj
+0 -13 Td
+(- Meta Certified Front-End Developer (2023)) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000002111 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2181
+%%EOF
